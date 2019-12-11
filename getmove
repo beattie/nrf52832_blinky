@@ -3,4 +3,3 @@ mv examples/peripheral/blinky/pca10040/blank/config/sdk_config.h config/sdk_conf
 mv components/libraries/util/sdk_common.h sdk_common.h
 mv examples/peripheral/blinky/pca10040/blank/armgcc/blinky_gcc_nrf52.ld blinky_gcc_nrf52.ld
 mv examples/peripheral/blinky/main.c main.c
-mv examples/peripheral/blinky/pca10040/blank/armgcc/Makefile Makefile
